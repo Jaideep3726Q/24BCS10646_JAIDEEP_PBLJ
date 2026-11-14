@@ -308,23 +308,3 @@ The application uses **Spring Security** with:
 * Charts & Analytics
 * Email Notifications
 * Result Export (PDF/Excel)
-
----
-
-# 👨‍💻 Author
-
-**Devaanshhh**
-
-GitHub: https://github.com/Devaanshhh
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
-
-# 📄 License
-
-This project is developed for educational and academic purposes.
